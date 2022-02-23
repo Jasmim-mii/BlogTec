@@ -1,5 +1,6 @@
 <h1 align="center"> BlogTec</h1> 
 
+#### Site: <a href="https://tecblog.freecluster.eu/">✨✨✨✨Projeto BlogTec✨✨✨✨</a>
 
 ## :eight_spoked_asterisk:Tecnologias utilizadas:
 - HTML
@@ -16,4 +17,4 @@
 - formatação de links
 - elementos flutuante
 
-<a href="https://tecblog.freecluster.eu/">✨✨✨✨Projeto BlogTec✨✨✨✨</a>
+
